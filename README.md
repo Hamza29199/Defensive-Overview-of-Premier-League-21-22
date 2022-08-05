@@ -1,6 +1,9 @@
 # Defensive-Overview-of-Premier-League-21-22
 ## A comparison of some of the best defensive performances in the Premier League last season, as well as general analysis
 
+![PL 21_22 Defenders (1)](https://user-images.githubusercontent.com/23167040/183028786-fea28e3f-e197-4259-bcf2-2679ecf7bda9.png)
+
+
 With a brand new Premier League season almost upon us, it's only fitting that we take a look back at last season's defensive performances and summarize them. I always try to see if I can find "unlikely heroes" in my analysis, which means that I want to bring players who have performed exceptionally well for their respective teams but seem to go under the radar because they don't get as much media exposure as some of the game's superstars and high-earners.
 
 This visualization exhibits the best individuals from last season in terms of three important defensive metrics: shots blocked, interceptions, and clearances. I was surprised to see a couple of non-defenders stand out in these metrics as well, which is credit to their defensive work ethic despite not being traditional defenders.
